@@ -4,5 +4,6 @@ export interface DharmaConfig {
     tokenTransferProxyAddress?: string;
     tokenRegistryAddress?: string;
     debtTokenAddress?: string;
+    debtRegistryAddress?: string;
     termsContractRegistry?: string;
 }
